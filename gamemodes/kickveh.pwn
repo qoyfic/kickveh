@@ -1,5 +1,5 @@
-#include <open.mp>
-#include <Pawn.CMD>
+//#include <open.mp>
+//#include <Pawn.CMD>
 
 CMD:kickveh(playerid, params[])
 {
@@ -52,4 +52,5 @@ stock GetClosestVehicle(playerid, Float:range = 3.0)
     }
     
     return closestVehicle;
+
 }
