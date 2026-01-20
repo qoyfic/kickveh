@@ -4,6 +4,8 @@
 Simple vehicle interaction feature for **open.mp/sa-mp**.  
 Allows players to kick the nearest vehicle with animation, sound, and physical reaction.
 
+<img src="assets/preview.gif" width="500">
+
 ---
 
 ## Command
